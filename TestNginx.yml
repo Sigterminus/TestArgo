@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: DeploymentWirdNichtFunktionieren
+  name: argotest
 spec:
   selector:
     matchLabels:
